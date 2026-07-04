@@ -1,1 +1,1 @@
-# build-a-cafe-website-animated
+// auto-generated: README.md
